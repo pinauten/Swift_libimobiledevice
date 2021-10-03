@@ -1,0 +1,6 @@
+module Clibimobiledevice [system] {
+    header "libimobiledevice.h"
+    link "imobiledevice-1.0"
+    link "plist-2.0"
+    export *
+}
